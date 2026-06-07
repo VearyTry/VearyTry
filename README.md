@@ -1,0 +1,77 @@
+<p align="center">
+  <img src="https://i.ibb.co/4RC7pTpR/vearylogo.png" width="480" alt="VearyTry Logo" />
+</p>
+
+<!-- выглядит очень прикольноо -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=24A1DE&center=true&vCenter=true&width=600&lines=%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA+%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B+AskaVPN;%D0%A0%D0%B5%D0%B2%D0%B5%D1%80%D1%81+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80+%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9;%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%B2" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+## 📂 Обо мне
+Я занимаюсь разработкой разных сайтов, программ, и многим другим! Также, я увлекаюсь реверс-инженерингом и имею базовые навыки в Android и браузерной среде.
+
+---
+
+## 🚀 Проекты
+
+### 🛠️ [ZapretRoblox](https://github.com/VearyTry/ZapretRoblox)
+Скрипт для автоматической настройки обхода DPI, созданный для комфортной игры в Roblox.
+- **Особенности:** Не требует использования VPN или установки дополнительного программного обеспечения. Настройка происходит автоматически в STARTME.bat файле.
+
+### 🌐 [AskaVPN](https://t.me/AskaVPN)
+Являюсь частью команды разработчиков бесплатного VPN-сервиса **AskaVPN**.
+- **Особенности проекта:** Полностью бесплатная подписка, широкий выбор серверов и стран, функция автоматического выбора оптимального сервера. 
+- **Инфраструктура:** Собственные серверы, парсеры, веб-сайты, боты и дружелюбное развивающееся сообщество.
+
+---
+
+## ⚙️ Моё железо и девайсы
+
+<details>
+  <summary>💻 <b>Ноутбук: HUAWEI MateBook D 15</b> (Нажми, чтобы раскрыть характеристики)</summary>
+  <br>
+  <ul>
+    <li><b>Процессор:</b> AMD Ryzen 5 5500U (6 ядер, 12 потоков, базовая частота 2.1 ГГц)</li>
+    <li><b>Оперативная память:</b> 8 ГБ DDR4 (2x4 ГБ Hynix @ 3200 МГц)</li>
+    <li><b>Видеокарта:</b> Встроенная AMD Radeon Graphics (выделено 512 МБ)</li>
+    <li><b>Материнская плата:</b> HUAWEI BOM-WXX9-PCB-B2</li>
+    <li><b>Операционная система:</b> Windows 11 Домашняя (64-разрядная, Build 26200)</li>
+  </ul>
+</details>
+
+<br>
+
+<details>
+  <summary>📱 <b>Смартфон: Xiaomi Redmi Note 12 4G (с поддержкой NFC)</b> (Нажми, чтобы раскрыть характеристики)</summary>
+  <br>
+  <ul>
+    <li><b>Экран:</b> 6.67", AMOLED, FullHD+ (2400×1080), частота обновления 120 Гц</li>
+    <li><b>Процессор:</b> Qualcomm Snapdragon 685 (6-нанометровый, 8 ядер, 64-битная архитектура)</li>
+    <li><b>Камеры:</b> Основная 50 Мп (Samsung JN1) + ультраширокоугольная 8 Мп + макро 2 Мп | Фронтальная — 13 Мп</li>
+    <li><b>Память:</b> Оперативная — до 8 ГБ, встроенная — до 256 ГБ (+ слот microSD до 1 ТБ)</li>
+    <li><b>Батарея:</b> 5000 мАч, быстрая зарядка 33 Вт</li>
+    <li><b>Особенности:</b> Наличие чипа NFC для бесконтактной оплаты, боковой сканер отпечатков пальцев, разъем для наушников 3.5 мм, влагозащита IP53</li>
+  </ul>
+</details>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+## 📫 Связь со мне
+
+<p align="left">
+  <a href="https://t.me/vearytry">
+    <img src="https://camo.githubusercontent.com/dd45f4c625bd8f9885a4926faad04f95addc5477824679a476ccb06711e6c294/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323131312f323131313634362e706e67" width="22" valign="middle" alt="Telegram Icon" />
+    <b>Telegram:</b> @VearyTry
+  </a>
+  <br><br>
+  <a href="https://github.com/vearytry">
+    <img src="https://cdn.simpleicons.org/github/808080" width="22" valign="middle" alt="GitHub Icon" />
+    <b>GitHub:</b> @VearyTry
+  </a>
+</p>
